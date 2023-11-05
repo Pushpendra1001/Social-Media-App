@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929236157058",
+    "project_id": "socialmedia-d1bed",
+    "storage_bucket": "socialmedia-d1bed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929236157058:android:c78d87fd51d4b88b59ea9b",
+        "android_client_info": {
+          "package_name": "com.example.socialmedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPendW-IuyP1QEOswLotRnoeOY8Qs2Rb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
