@@ -1,3 +1,5 @@
+// ignore_for_file: file_names, unused_local_variable
+
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
@@ -5,10 +7,8 @@ import 'package:google_fonts/google_fonts.dart';
 import 'package:socialmedia/common/Message_Bar.dart';
 import 'package:socialmedia/common/bottombar.dart';
 import 'package:socialmedia/common/text_field_input.dart';
-import 'package:socialmedia/screeens/HomeScreen.dart';
 import 'package:socialmedia/screeens/Signup.dart';
 import 'package:svg_flutter/svg.dart';
-import 'package:toast/toast.dart';
 
 class SignInScreen extends StatefulWidget {
   const SignInScreen({super.key});

@@ -4,4 +4,6 @@ class darkMode {
   void setDarkMode() {
     LightMode = true;
   }
+
+  
 }

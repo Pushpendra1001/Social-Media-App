@@ -1,7 +1,7 @@
+// ignore_for_file: unnecessary_import
+
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:socialmedia/common/bottombar.dart';
-import 'package:socialmedia/screeens/HomeScreen.dart';
 import 'package:socialmedia/screeens/Signin.dart';
 
 import 'firebase_options.dart';
